@@ -441,6 +441,18 @@
   
   
     <li class="md-nav__item">
+      <a href="../../client/native/CreatePed/" class="md-nav__link">
+        CreatePed
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../client/native/CreateVehicle/" class="md-nav__link">
         CreateVehicle
       </a>
@@ -854,6 +866,27 @@
   
   
   
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_1" type="checkbox" id="__nav_2_5_1" >
+      
+      <label class="md-nav__link" for="__nav_2_5_1">
+        Object
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Object" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_1">
+          <span class="md-nav__icon md-icon"></span>
+          Object
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
     <li class="md-nav__item">
       <a href="../../client/advance_script_creation/TakeObjectOnHand/" class="md-nav__link">
         TakeObjectOnHand
@@ -885,6 +918,33 @@
     </li>
   
 
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_2" type="checkbox" id="__nav_2_5_2" >
+      
+      <label class="md-nav__link" for="__nav_2_5_2">
+        Database
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Database" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          Database
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
           
             
   
@@ -918,6 +978,75 @@
       <a href="../../client/advance_script_creation/GetDataFromDb/" class="md-nav__link">
         GetDataFromDb
       </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_3" type="checkbox" id="__nav_2_5_3" >
+      
+      <label class="md-nav__link" for="__nav_2_5_3">
+        Dialogue
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Dialogue" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          Dialogue
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../client/advance_script_creation/StartDialogue/" class="md-nav__link">
+        StartDialogue
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../client/advance_script_creation/StopDialogue/" class="md-nav__link">
+        StopDialogue
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../client/advance_script_creation/EditDialogue/" class="md-nav__link">
+        EditDialogue
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -1443,6 +1572,30 @@
   
   
     <li class="md-nav__item">
+      <a href="../../client/misc/printd/" class="md-nav__link">
+        printd
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../client/misc/_g/" class="md-nav__link">
+        _g
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../client/misc/string.multigsub/" class="md-nav__link">
         string.multigsub
       </a>
@@ -1679,7 +1832,7 @@
                 
                 
                 <h1 id="registerserverevent">RegisterServerEvent</h1>
-<p>Register a server event that can be called by the client or the server,<br><strong>The event have the AddEventHandler already loaded</strong></p>
+<p>Record a server-side event that is triggerable by the server and also by the client.<br><strong>The event have the AddEventHandler already loaded</strong></p>
 <table>
 <thead>
 <tr>
@@ -1710,14 +1863,14 @@
 <td>boolean</td>
 <td><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-8 8m0-18A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2z"/></svg></span></td>
 <td><code>true</code></td>
-<td>If setted to false dont auto-prepare the event for works with ESX (dont load the esx basic variable)</td>
+<td>If setted to false don't auto-prepare the event for works with ESX (don't load the esx basic variable)</td>
 </tr>
 </tbody>
 </table>
 <details class="info" open="open"><summary>Other difference</summary><p>It also auto-prepare the event to work with esx, so it auto load the <code>xPlayer</code> and <code>_source</code> variable</p>
 </details>
 <div class="admonition success">
-<p>Dont need to be called every frame</p>
+<p>Don't need to be called every frame</p>
 </div>
 <hr />
 <details class="example"><summary>Example</summary><div class="highlight"><pre><span></span><code>RegisterServerEvent(&quot;utility_libs:ILoveYou&quot;, function()
@@ -1733,7 +1886,7 @@ AddEventHandler(&quot;utility_libs:ILoveYou&quot;, function()
     print(GetPlayerName(PlayerId())..&quot; love the utility_libs, how to blame it?&quot;)
 end)
 </code></pre></div>
-<details class="info"><summary>Using old native</summary><p>although i dont recommend it, you can use the old native via <code>old_RegisterServerEvent</code></p>
+<details class="info"><summary>Using old native</summary><p>although i don't recommend it, you can use the old native via <code>old_RegisterServerEvent</code></p>
 </details>
 </details>
                 

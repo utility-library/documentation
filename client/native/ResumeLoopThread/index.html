@@ -457,6 +457,18 @@
   
   
     <li class="md-nav__item">
+      <a href="../CreatePed/" class="md-nav__link">
+        CreatePed
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../CreateVehicle/" class="md-nav__link">
         CreateVehicle
       </a>
@@ -870,6 +882,27 @@
   
   
   
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_1" type="checkbox" id="__nav_2_5_1" >
+      
+      <label class="md-nav__link" for="__nav_2_5_1">
+        Object
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Object" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_1">
+          <span class="md-nav__icon md-icon"></span>
+          Object
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
     <li class="md-nav__item">
       <a href="../../advance_script_creation/TakeObjectOnHand/" class="md-nav__link">
         TakeObjectOnHand
@@ -901,6 +934,33 @@
     </li>
   
 
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_2" type="checkbox" id="__nav_2_5_2" >
+      
+      <label class="md-nav__link" for="__nav_2_5_2">
+        Database
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Database" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          Database
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
           
             
   
@@ -934,6 +994,75 @@
       <a href="../../advance_script_creation/GetDataFromDb/" class="md-nav__link">
         GetDataFromDb
       </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_3" type="checkbox" id="__nav_2_5_3" >
+      
+      <label class="md-nav__link" for="__nav_2_5_3">
+        Dialogue
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Dialogue" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          Dialogue
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../advance_script_creation/StartDialogue/" class="md-nav__link">
+        StartDialogue
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../advance_script_creation/StopDialogue/" class="md-nav__link">
+        StopDialogue
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../advance_script_creation/EditDialogue/" class="md-nav__link">
+        EditDialogue
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -1459,6 +1588,30 @@
   
   
     <li class="md-nav__item">
+      <a href="../../misc/printd/" class="md-nav__link">
+        printd
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../misc/_g/" class="md-nav__link">
+        _g
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../misc/string.multigsub/" class="md-nav__link">
         string.multigsub
       </a>
@@ -1696,11 +1849,11 @@
 </thead>
 <tbody>
 <tr>
-<td><code>Id</code></td>
+<td><code>Handle</code></td>
 <td>string/number</td>
 <td><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2z"/></svg></span></td>
 <td><code>-</code></td>
-<td>The id of the loop thread</td>
+<td>The handle of the loop thread</td>
 </tr>
 </tbody>
 </table>
@@ -1710,7 +1863,7 @@
 <hr />
 <details class="warning" open="open"><summary>Warning</summary><p>It can be used only into <code>CreateLoop</code> function where you created the thread</p>
 </details>
-<details class="example"><summary>Example</summary><div class="highlight"><pre><span></span><code>ResumeLoopThread(&quot;first_loop&quot;)
+<details class="example"><summary>Example</summary><div class="highlight"><pre><span></span><code>ResumeLoopThread(myloopthread)
 </code></pre></div>
 </details>
                 

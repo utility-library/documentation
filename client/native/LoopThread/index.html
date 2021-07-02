@@ -457,6 +457,18 @@
   
   
     <li class="md-nav__item">
+      <a href="../CreatePed/" class="md-nav__link">
+        CreatePed
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../CreateVehicle/" class="md-nav__link">
         CreateVehicle
       </a>
@@ -870,6 +882,27 @@
   
   
   
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_1" type="checkbox" id="__nav_2_5_1" >
+      
+      <label class="md-nav__link" for="__nav_2_5_1">
+        Object
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Object" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_1">
+          <span class="md-nav__icon md-icon"></span>
+          Object
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
     <li class="md-nav__item">
       <a href="../../advance_script_creation/TakeObjectOnHand/" class="md-nav__link">
         TakeObjectOnHand
@@ -901,6 +934,33 @@
     </li>
   
 
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_2" type="checkbox" id="__nav_2_5_2" >
+      
+      <label class="md-nav__link" for="__nav_2_5_2">
+        Database
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Database" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          Database
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
           
             
   
@@ -934,6 +994,75 @@
       <a href="../../advance_script_creation/GetDataFromDb/" class="md-nav__link">
         GetDataFromDb
       </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5_3" type="checkbox" id="__nav_2_5_3" >
+      
+      <label class="md-nav__link" for="__nav_2_5_3">
+        Dialogue
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Dialogue" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          Dialogue
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../advance_script_creation/StartDialogue/" class="md-nav__link">
+        StartDialogue
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../advance_script_creation/StopDialogue/" class="md-nav__link">
+        StopDialogue
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../advance_script_creation/EditDialogue/" class="md-nav__link">
+        EditDialogue
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -1459,6 +1588,30 @@
   
   
     <li class="md-nav__item">
+      <a href="../../misc/printd/" class="md-nav__link">
+        printd
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../misc/_g/" class="md-nav__link">
+        _g
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../misc/string.multigsub/" class="md-nav__link">
         string.multigsub
       </a>
@@ -1718,6 +1871,21 @@
 </tr>
 </tbody>
 </table>
+<details class="success"><summary>Returns</summary><table>
+<thead>
+<tr>
+<th>Data Type</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>number</td>
+<td>The handle of the LoopThread</td>
+</tr>
+</tbody>
+</table>
+</details>
 <div class="admonition success">
 <p>Dont need to be called every frame</p>
 </div>
@@ -1728,7 +1896,7 @@
 <div class="highlight"><pre><span></span><code>local Luck = 1
 
 CreateLoop(function()
-    LoopThread(&quot;first_loop&quot;, 500, function()
+    LoopThread(500, function()
         Luck = Luck + 1
     end)
 
@@ -1753,7 +1921,7 @@ end, 250)
 <p><strong>How it works</strong>:
 <div class="highlight"><pre><span></span><code>CreateLoop(function()
     print(&quot;Start&quot;)
-    LoopThread(&quot;first_loop&quot;, 1000, function()
+    LoopThread(1000, function()
         print(&quot;Loop Thread&quot;)
     end)
     print(&quot;End&quot;)
