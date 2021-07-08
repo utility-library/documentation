@@ -331,6 +331,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/client/native/IsEntityFrozen/</loc>
+         <lastmod>2021-07-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/client/native/LoopThread/</loc>
          <lastmod>2021-07-08</lastmod>
          <changefreq>daily</changefreq>
