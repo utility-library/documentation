@@ -366,6 +366,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/client/native/PauseLoop/</loc>
+         <lastmod>2022-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/client/native/PlayerPedId/</loc>
          <lastmod>2022-01-06</lastmod>
          <changefreq>daily</changefreq>
@@ -376,12 +381,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/client/native/ResumeLoop/</loc>
+         <lastmod>2022-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/client/native/ResumeLoopThread/</loc>
          <lastmod>2022-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/ShowNotification/</loc>
+         <lastmod>2022-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/client/native/StopLoop/</loc>
          <lastmod>2022-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
