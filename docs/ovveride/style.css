@@ -3,6 +3,7 @@
     --md-default-fg-color: rgba(0, 0, 0, 0.6);
     --md-default-fg-color--light: #252525;
     --md-default-bg-color: #fff;
+    --md-admonition-icon--pied-piper: url("https://upload.wikimedia.org/wikipedia/commons/a/a2/Hello_%28yellow%29.png");
 }
 
 * {

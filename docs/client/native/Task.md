@@ -12,6 +12,8 @@ It will create a thread in the loop with a default time, can be stopped by the `
 
 | Argument              | Data Type                            | Nedeed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
+| `LoopId`                  | number | :material-checkbox-blank-circle: | `-` | The loop id
+| `Id`                      | string/number | :material-checkbox-blank-circle: | `-` | The id to identify the thread
 | `Function`                | function | :material-checkbox-blank-circle: | `-` | The code executed in the loop thread
 
 ??? success "Returns"
@@ -26,8 +28,8 @@ It will create a thread in the loop with a default time, can be stopped by the `
     It can be used only into `CreateLoop` function
 ??? example
     ```
-    CreateLoop(function()
-        TaskBack(function()
+    CreateLoop(function(loopId)
+        TaskBack(loopId, "main", function()
             print("Hello")
         end)
     end, 250)

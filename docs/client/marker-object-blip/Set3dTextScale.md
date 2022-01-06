@@ -1,14 +1,15 @@
-# StopDialogue
-Stop a dialogue
+# Set3dTextScale
+Set the scale of a marker (only 3d text)
 
 | Argument              | Data Type                            | Nedeed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
-| `Entity`                | string/number | :material-checkbox-blank-circle: | `-` | The entity that handle the dialogue
-
+| `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to update the marker
+| `Scale`                | number | :material-checkbox-blank-circle: | `-` | The scale of the 3dtext
+    
 !!! success ""
     Dont need to be called every frame
 ---
 ??? example
     ```
-    StopDialogue(entity)
+    Set3dTextScale("marker", 0.35)
     ```

@@ -41,6 +41,7 @@ Create a marker, can be an 3d text or real actual marker
         | Child     | Data Type | Explanation |
         |-----------|-----------|------------ |
         | rgb      | table    | The rgb data (`{255, 255, 255}`)                             |
+        | notify      | string    | The ButtonNotification data                          |
         | type     | number    | The [marker type](https://docs.fivem.net/docs/game-references/markers/)                            |
         | direction    | vector3    | The direction of the marker |
         | rotation    | vector3   | The rotation of the marker |
@@ -75,7 +76,7 @@ Create a marker, can be an 3d text or real actual marker
         ```
         This will be converted to "marker_51243", the number is the random id generated
 ??? danger "To do"
-    :material-circle-slice-6: Adding more customization
+    :material-circle-slice-7: Adding more customization
 
 *[LSS]: Long Story Short
 *[idk]: I dont know

@@ -35,8 +35,8 @@ the `ESX` and `xPlayer` variables are made available
         PlayerData = ESX.GetPlayerData()
     end)
 
-    RegisterNetEvent('esx:playerLoaded')
-    AddEventHandler('esx:playerLoaded', function(xPlayer)
+    RegisterNetEvent('esx:setJob')
+    AddEventHandler('esx:setJob', function(xPlayer)
         PlayerData = xPlayer
     end)
     ```

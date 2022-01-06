@@ -3,6 +3,7 @@ It will create a thread in the loop, the code inserted into the function will be
 
 | Argument              | Data Type                            | Nedeed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
+| `LoopId`                | number | :material-checkbox-blank-circle: | `-` | The loop id
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to identify the thread
 | `Time`                | number | :material-checkbox-blank-circle: | `-` | The time express in millisenconds (**ms**) of the execution
 | `Function`                | function | :material-checkbox-blank-circle: | `-` | The code executed in the loop thread
@@ -22,8 +23,8 @@ It will create a thread in the loop, the code inserted into the function will be
     ```
     local Luck = 1
 
-    CreateLoop(function()
-        LoopThread(500, function()
+    CreateLoop(function(loopId)
+        LoopThread(loopId, "main", 500, function()
             Luck = Luck + 1
         end)
 
@@ -54,9 +55,9 @@ It will create a thread in the loop, the code inserted into the function will be
 
     **How it works**:
     ```
-    CreateLoop(function()
+    CreateLoop(function(loopId)
         print("Start")
-        LoopThread(1000, function()
+        LoopThread(loopId, "main", 1000, function()
             print("Loop Thread")
         end)
         print("End")
@@ -68,17 +69,18 @@ It will create a thread in the loop, the code inserted into the function will be
         Start<br>
         End<br>
 
+        Start<br>
         LoopThread<br>
-        Start<br>
         End<br>
 
         Start<br>
         End<br>
-
+        
         Start<br>
+        LoopThread<br>
         End
 
-        LoopThread<br>
+        
         Start<br>
         End<br>
         ...etc

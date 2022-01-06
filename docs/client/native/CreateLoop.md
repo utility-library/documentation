@@ -1,5 +1,5 @@
 # CreateLoop
-Create a while true do loop
+Create a while true do loop, in the callback send the loopId
 
 | Argument              | Data Type                            | Nedeed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
@@ -12,7 +12,7 @@ Create a while true do loop
 ??? example
     **Without time**:
     ```
-    CreateLoop(function()
+    CreateLoop(function(loopId)
         print("Test")
     end)
     ```
