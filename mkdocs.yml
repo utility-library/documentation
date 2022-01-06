@@ -22,6 +22,7 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+  - https://code.jquery.com/jquery-3.6.0.min.js
   - ovveride/highlight_.js
 
 nav:
@@ -34,10 +35,6 @@ nav:
           - 'Loop':
             - 'CreateLoop': "client/native/CreateLoop.md"
             - '_break': "client/native/_break.md"
-            - 'LoopThread': "client/native/LoopThread.md"
-            - 'StopLoopThread': "client/native/StopLoopThread.md"
-            - 'ResumeLoopThread': "client/native/ResumeLoopThread.md"
-            - 'Task': "client/native/Task.md"
           - 'Improved Native':
             - 'CreateObject' : "client/native/CreateObject.md"
             - 'CreatePed' : "client/native/CreatePed.md"
@@ -61,29 +58,40 @@ nav:
             - 'GetWorldClosestPed' : "client/native/GetWorldClosestPed.md"
             - 'GetWorldClosestPlayer' : "client/native/GetWorldClosestPlayer.md"
             - 'MakeEntityFaceEntity' : "client/native/MakeEntityFaceEntity.md"
-        - 'Synced Trigger':
-          - 'TriggerSyncedEvent': 'client/synced_trigger/TriggerSyncedEvent.md'
+            - 'GetLoadoutOfPed' : "client/native/GetLoadoutOfPed.md"
+            - 'IsEntityFrozen' : "client/native/IsEntityFrozen.md"
+            - 'IsInRadius' : "client/native/IsInRadius.md"
+            - 'IsNearCoords' : "client/native/IsNearCoords.md"
+            - 'GenerateRandomCoords' : "client/native/GenerateRandomCoords.md"
+            - 'Slice System':
+              - Integration in other scripts: "client/native/slice_system/Integration.md"
+              - GetSliceCoordsFromCoords: "client/native/slice_system/GetSliceCoordsFromCoords.md"
+              - GetSliceFromCoords: "client/native/slice_system/GetSliceFromCoords.md"
+              - GetEntitySlice: "client/native/slice_system/GetEntitySlice.md"
+              - GetPlayerSlice: "client/native/slice_system/GetPlayerSlice.md"
+              - GetSelfSlice: "client/native/slice_system/GetSelfSlice.md"
+              - IsOnScreen: "client/native/slice_system/IsOnScreen.md"
+              - SliceUsed: "client/native/slice_system/SliceUsed.md"
+              - SetSliceUsed: "client/native/slice_system/SetSliceUsed.md"
         - 'ESX Integration':
           - 'StartESX': 'client/esx_integration/StartESX.md'
           - 'GetDataForJob': 'client/esx_integration/GetDataForJob.md'
-          - 'AddItem': 'client/esx_integration/AddItem.md'
-          - 'RemoveItem': 'client/esx_integration/RemoveItem.md'
-          - 'GetItem': 'client/esx_integration/GetItem.md'
-          - 'AddMoney': 'client/esx_integration/AddMoney.md'
-          - 'RemoveMoney': 'client/esx_integration/RemoveMoney.md'
         - 'Advance Script Creation':
+          - 'Nui3D' :
+            - 'CreateNui3d': 'client/advance_script_creation/n3d/CreateNui3d.md'
+            - 'N3d Class Methods': 'client/advance_script_creation/n3d/N3dClass.md'
+          - 'Sync':
+            - 'TriggerSyncedEvent': 'client/advance_script_creation/sync/TriggerSyncedEvent.md'
+            - 'Synced': 'client/advance_script_creation/sync/Synced.md'
           - 'Object': 
             - 'TakeObjectOnHand': 'client/advance_script_creation/TakeObjectOnHand.md'
             - 'DropObjectFromHand': 'client/advance_script_creation/DropObjectFromHand.md'
             - 'GetOnHandObject': 'client/advance_script_creation/GetOnHandObject.md'
-          - 'Database':
-            - 'SaveDataToDb': 'client/advance_script_creation/SaveDataToDb.md'
-            - 'UpdateDataToDb': 'client/advance_script_creation/UpdateDataToDb.md'
-            - 'GetDataFromDb': 'client/advance_script_creation/GetDataFromDb.md'
           - 'Dialogue':
             - 'StartDialogue': 'client/advance_script_creation/StartDialogue.md'
-            - 'StopDialogue': 'client/advance_script_creation/StopDialogue.md'
             - 'EditDialogue': 'client/advance_script_creation/EditDialogue.md'
+            - 'StopDialogue': 'client/advance_script_creation/StopDialogue.md'
+            - 'IsEntityOnDialogue': 'client/advance_script_creation/IsEntityOnDialogue.md'
         - 'Managing data':
           - 'SetFor': 'client/managing_data/SetFor.md'
           - 'GetFrom': 'client/managing_data/GetFrom.md'
@@ -99,6 +107,9 @@ nav:
             - 'SetMarkerAlpha': 'client/marker-object-blip/SetMarkerAlpha.md'
             - 'SetMarkerAnimation': 'client/marker-object-blip/SetMarkerAnimation.md'
             - 'SetMarkerDrawOnEntity': 'client/marker-object-blip/SetMarkerDrawOnEntity.md'
+            - 'Set3dTextDrawRect': 'client/marker-object-blip/Set3dTextDrawRect.md'
+            - 'Set3dTextFont': 'client/marker-object-blip/Set3dTextFont.md'
+            - 'Set3dTextScale': 'client/marker-object-blip/Set3dTextScale.md'
           - 'Object' :
             - 'CreateiObject' : 'client/marker-object-blip/CreateiObject.md'
             - 'DeleteiObject' : 'client/marker-object-blip/DeleteiObject.md'
@@ -118,21 +129,51 @@ nav:
           - 'DevMode' : 'client/misc/DevMode.md'
           - 'ReplaceTexture' : 'client/misc/ReplaceTexture.md'
           - 'printd' : "client/misc/printd.md"
-          - '_g' : "client/misc/_g.md"
           - 'string.multigsub' : 'client/misc/string.multigsub.md'
           - 'table.clone' : 'client/misc/table.clone.md'
           - 'table.empty' : 'client/misc/table.empty.md'
           - 'table.fexist' : 'client/misc/table.fexist.md'
           - 'table.remove' : 'client/misc/table.remove.md'
-    - 'Server':          
-      - 'RegisterServerEvent' : 'server/RegisterServerEvent.md'
-      - 'ShowNotification' : 'server/ShowNotification.md'
-      - 'StartESX' : 'server/StartESX.md'
-      - 'string.multigsub' : 'server/string.multigsub.md'
-      - 'table.clone' : 'server/table.clone.md'
-      - 'table.empty' : 'server/table.empty.md'
-      - 'table.fexist' : 'server/table.fexist.md'
-      - 'table.remove' : 'server/table.remove.md'
+    - 'Server':    
+      - "Native" : 
+        - 'Loop':
+          - 'CreateLoop': "server/native/CreateLoop.md"
+          - '_break': "server/native/_break.md"
+          - 'LoopThread': "server/native/LoopThread.md"
+          - 'StopLoopThread': "server/native/StopLoopThread.md"
+          - 'ResumeLoopThread': "server/native/ResumeLoopThread.md"
+        - 'RegisterServerEvent': "server/native/RegisterServerEvent.md"
+        - 'ShowNotification': "server/native/ShowNotification.md"
+      - "MySQL" :
+        - 'StartMySQL' : 'server/mysql/StartMySQL.md'
+        - 'ExecuteSql' : 'server/mysql/ExecuteSql.md'
+      - 'ESX Integration':
+        - 'StartESX': 'server/esx_integration/StartESX.md'
+        - 'xPlayer':
+          - 'AddItem': 'server/esx_integration/xplayer/AddItem.md'
+          - 'RemoveItem': 'server/esx_integration/xplayer/RemoveItem.md'
+          - 'GetItem': 'server/esx_integration/xplayer/GetItem.md'
+          - 'HaveItem': 'server/esx_integration/xplayer/HaveItem.md'
+          - 'HaveItemQuantity': 'server/esx_integration/xplayer/HaveItemQuantity.md'
+          - 'AddMoney': 'server/esx_integration/xplayer/AddMoney.md'
+          - 'RemoveMoney': 'server/esx_integration/xplayer/RemoveMoney.md'
+          - 'HaveMoney': 'server/esx_integration/xplayer/HaveMoney.md'
+        - 'Society':
+          - 'SocietyAddItem': 'server/esx_integration/society/SocietyAddItem.md'
+          - 'SocietyRemoveItem': 'server/esx_integration/society/SocietyRemoveItem.md'
+          - 'SocietyGetItem': 'server/esx_integration/society/SocietyGetItem.md'
+          - 'SocietyHaveItem': 'server/esx_integration/society/SocietyHaveItem.md'
+          - 'SocietyHaveItemQuantity': 'server/esx_integration/society/SocietyHaveItemQuantity.md'
+          - 'SocietyAddMoney': 'server/esx_integration/society/SocietyAddMoney.md'
+          - 'SocietyRemoveMoney': 'server/esx_integration/society/SocietyRemoveMoney.md'
+          - 'SocietyHaveMoney': 'server/esx_integration/society/SocietyHaveMoney.md'
+      - 'Misc':
+        - 'printd' : "server/misc/printd.md"
+        - 'string.multigsub' : 'server/misc/string.multigsub.md'
+        - 'table.clone' : 'server/misc/table.clone.md'
+        - 'table.empty' : 'server/misc/table.empty.md'
+        - 'table.fexist' : 'server/misc/table.fexist.md'
+        - 'table.remove' : 'server/misc/table.remove.md'
 
 markdown_extensions:
   - abbr
