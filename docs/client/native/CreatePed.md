@@ -1,7 +1,7 @@
 # CreatePed
 Is equal to the standard one but dont need to load or request the model
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Model`                | string/number | :material-checkbox-blank-circle: | `-` | The hash or the name of the model
 | `Coords`                | vector3/number | :material-checkbox-blank-circle: | `-` | The coordinates to create the ped (can be an vector3 or you can insert it one by one)

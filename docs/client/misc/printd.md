@@ -1,7 +1,7 @@
 # printd
 Dump a table, simply convert a table to a string
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Table`                | table | :material-checkbox-blank-circle: | `-` | The table to dump
 | `Advanced`                | boolean | :material-checkbox-blank-circle-outline: | `false` | Is true return an advanced dump of the table

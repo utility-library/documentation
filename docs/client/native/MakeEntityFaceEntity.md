@@ -1,7 +1,7 @@
 # MakeEntityFaceEntity
 Makes the two entities look in the eye
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Entity 1`                | entity | :material-checkbox-blank-circle: | `-` | The first entity
 | `Entity 2`                | entity | :material-checkbox-blank-circle: | `-` | The second entity

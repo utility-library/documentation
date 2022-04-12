@@ -1,7 +1,7 @@
 # GetEntitySurfaceMaterial
 Returns the hash of the ground material where the entity is in
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Entity`                | entity | :material-checkbox-blank-circle: | `-` | The entity being checked
 

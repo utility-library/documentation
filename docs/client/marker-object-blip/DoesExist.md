@@ -1,7 +1,7 @@
 # DoesExist
 Check if a marker/object exist
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Type`                | string | :material-checkbox-blank-circle: | `-` | The type of the id:<br><br> Marker, marker, m <br>`or`<br> Object, object, o
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id

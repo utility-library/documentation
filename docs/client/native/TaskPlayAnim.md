@@ -1,7 +1,7 @@
 # TaskPlayAnim
 Is equal to the standard one but dont need to load or request the anim dict
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Ped`                | ped | :material-checkbox-blank-circle: | `-` | The ped
 | `Animation dictionary` | string | :material-checkbox-blank-circle: | `-` | The animation dictionary, [this is the list](https://alexguirre.github.io/animations-list/)
@@ -9,7 +9,7 @@ Is equal to the standard one but dont need to load or request the anim dict
 | `Blend in speed`       | number | :material-checkbox-blank-circle: | `-` | The blend in speed
 | `Blend out speed`      | number | :material-checkbox-blank-circle: | `-` | The blend out speed
 | `Duration`             | number | :material-checkbox-blank-circle: | `-` | The duration time in milliseconds (**ms**)
-| `Flag`                 | number | :material-checkbox-blank-circle: | `-` | The animation flag: -1 default. 0 no play, small value = slow animation speed, other = freeze player
+| `Flag`                 | number | :material-checkbox-blank-circle: | `-` | The animation flag: -1 loop, 51 moving, 0/50 stuck
 | `Playback Rate`        | number | :material-checkbox-blank-circle: | `-` | No description, values are between 0.0 and 1.0  
 | `LockX`                | boolean | :material-checkbox-blank-circle-outline: | `0` | No description, 0 in most cases
 | `LockY`                | boolean | :material-checkbox-blank-circle-outline: | `0` | No description, 0 in most cases

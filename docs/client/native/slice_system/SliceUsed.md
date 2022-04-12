@@ -1,7 +1,7 @@
 # SliceUsed
 Check if a slice id is used
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `slice id`                | number | :material-checkbox-blank-circle: | `-` | The slice id
 

@@ -1,7 +1,7 @@
 # GetPlayerName
 Returns the player name, the difference between the standrard one and this one is that this one have the playerid has default
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `PlayerId`                | number | :material-checkbox-blank-circle-outline: | `playerId` | The local player id
 

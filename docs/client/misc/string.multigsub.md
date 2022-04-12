@@ -1,7 +1,7 @@
 # string.multigsub
 Replace multiple part of a string
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `String`                | string | :material-checkbox-blank-circle: | `-` | The original texture
 | `Pattern`                | table | :material-checkbox-blank-circle: | `-` | The pattern to find and replace

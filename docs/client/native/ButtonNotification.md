@@ -1,12 +1,12 @@
 # ButtonNotification
 Shows a notification in the top-right that support the displaying button inputs
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Message`                | string | :material-checkbox-blank-circle: | `-` | The message to show
 
-!!! success ""
-    Dont need to be called every frame
+!!! danger ""
+    Need to be called every frame
 ---
 ??? example
     ```

@@ -1,7 +1,7 @@
 # ExecuteSql
 Execute any type of sql query, automatically detect the query
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `Query`                | string | :material-checkbox-blank-circle: | `-` | The query
 | `Params`                | table | :material-checkbox-blank-circle: | `-` | The query params

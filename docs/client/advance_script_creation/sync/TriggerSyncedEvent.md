@@ -1,7 +1,7 @@
 # TriggerSyncedEvent (Client side)
 Trigger a net event for all clients
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `EventName`                | string | :material-checkbox-blank-circle: | `-` | The net event name
 | `Whitelist`                | number/table | :material-checkbox-blank-circle: | `-` | This is the whitelist, for each id the defined event will be triggered, insert **-1** for trigger the event for any client or create a table with all the id

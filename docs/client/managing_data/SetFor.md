@@ -1,7 +1,7 @@
 # SetFor
 Allows you to manipulate a table already created by the utility without having to create it every time
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id
 | `Property`                | string/table | :material-checkbox-blank-circle: | `-` | The data

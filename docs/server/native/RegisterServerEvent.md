@@ -1,7 +1,7 @@
 # RegisterServerEvent
 Record a server-side event that is triggerable by the server and also by the client.<br>**The event have the AddEventHandler already loaded**
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `EventName`                | string | :material-checkbox-blank-circle: | `-` | The name of the event
 | `Function`                | function | :material-checkbox-blank-circle: | `-` | The code executed when the event was triggered

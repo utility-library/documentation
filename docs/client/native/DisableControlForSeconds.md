@@ -1,7 +1,7 @@
 # DisableCotrolForSeconds
 Disable a key for inserted seconds
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Control`                | string | :material-checkbox-blank-circle: | `-` | The key to disable
 | `Seconds`                | number | :material-checkbox-blank-circle: | `-` | The seconds which the button is disabled

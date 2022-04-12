@@ -1,7 +1,7 @@
 # RandomId
 Generate a random id
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Length`                | number | :material-checkbox-blank-circle: | `5` | The length of the id
 

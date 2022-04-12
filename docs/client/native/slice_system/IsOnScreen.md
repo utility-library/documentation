@@ -1,7 +1,7 @@
 # IsOnScreen
 Check if some coords is in the screen
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coords that whe need to check
 

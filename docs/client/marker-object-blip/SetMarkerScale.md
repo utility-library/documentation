@@ -1,7 +1,7 @@
 # SetMarkerScale
 Set the scale of the marker by the id
 
-| Argument              | Data type                            | Nedeed                    | Default         | Description
+| Argument              | Data type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to update the marker
 | `Scale`                | vector3 | :material-checkbox-blank-circle: | `-` | The marker scale

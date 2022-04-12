@@ -1,7 +1,7 @@
 # RemoveItem
 Remove an item from the player
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `Item`                | string | :material-checkbox-blank-circle: | `-` | The item name
 | `Amount`                | number | :material-checkbox-blank-circle: | `-` | The amount

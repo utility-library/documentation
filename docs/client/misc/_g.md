@@ -1,7 +1,7 @@
 # _g
 Register a global variable on all scripts that load the Utility
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Name`                | string | :material-checkbox-blank-circle: | `-` | The name of the variable
 | `Value`                | any | :material-checkbox-blank-circle: | `-` | The value of the variable

@@ -1,7 +1,7 @@
 # IsEntityFrozen
 Check if the entity is frozen
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `entity`                | entity | :material-checkbox-blank-circle-outline: | `-` | The entity to check
 

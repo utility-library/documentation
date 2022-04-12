@@ -1,7 +1,7 @@
 # CreateMarker
 Create a marker, can be an 3d text or real actual marker
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to manage the marker
 | `Coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coordinates to create the marker
@@ -40,6 +40,7 @@ Create a marker, can be an 3d text or real actual marker
     ???+ abstract "Config arguments"
         | Child     | Data Type | Explanation |
         |-----------|-----------|------------ |
+        | job      | string    | The job that can see and interact with the marker                             |
         | rgb      | table    | The rgb data (`{255, 255, 255}`)                             |
         | notify      | string    | The ButtonNotification data                          |
         | type     | number    | The [marker type](https://docs.fivem.net/docs/game-references/markers/)                            |

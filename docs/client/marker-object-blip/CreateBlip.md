@@ -1,7 +1,7 @@
 # CreateBlip
 Create a blip
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Name`                | string/number | :material-checkbox-blank-circle: | `-` | The name of the blip
 | `Coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coordinates to create the blip

@@ -1,10 +1,15 @@
 # CreateLoop
 Create a while true do loop, in the callback send the loopId
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Function`                | function | :material-checkbox-blank-circle: | `-` | The code executed in the loop
 | `Time`                | number | :material-checkbox-blank-circle-outline: | `5` | The time express in millisenconds (**ms**) of the execution
+
+??? success "Returns"
+    | Data Type                            | Description
+    | ------------------------------------ |-------------
+    | loopId | The id of the loop
 
 !!! success ""
     Dont need to be called every frame

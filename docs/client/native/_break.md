@@ -1,7 +1,7 @@
 # _break
 Break the current loop
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `LoopId`                | number | :material-checkbox-blank-circle: | `-` | The loop id
 

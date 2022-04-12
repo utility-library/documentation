@@ -1,7 +1,7 @@
 # IsControlJustPressed
 Call a callback when a specific key was pressed, more optimized and easy to use
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Control`                | string | :material-checkbox-blank-circle: | `-` | The key, [this is the list](https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/)
 | `Callback`                | function | :material-checkbox-blank-circle: | `-` | The code executed when the key was pressed

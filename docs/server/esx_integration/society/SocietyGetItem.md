@@ -1,7 +1,7 @@
 # SocietyGetItem
 Get data of an item from the society inventory
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `Society`                | string | :material-checkbox-blank-circle: | `-` | The society name
 | `Item`                | string | :material-checkbox-blank-circle: | `-` | The item name

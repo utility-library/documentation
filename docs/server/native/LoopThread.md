@@ -1,7 +1,7 @@
 # LoopThread
 It will create a thread in the loop, the code inserted into the function will be executed each time for the inserted time, it can be used for optimize code (See example)
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to identify the thread
 | `Time`                | number | :material-checkbox-blank-circle: | `-` | The time express in millisenconds (**ms**) of the execution

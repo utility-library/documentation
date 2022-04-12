@@ -10,7 +10,7 @@ It will create a thread in the loop with a default time, can be stopped by the `
 | `TaskFast`                | 500 ms
 | `TaskExtraFast`                | 5 ms
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `LoopId`                  | number | :material-checkbox-blank-circle: | `-` | The loop id
 | `Id`                      | string/number | :material-checkbox-blank-circle: | `-` | The id to identify the thread

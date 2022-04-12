@@ -1,7 +1,7 @@
 # HaveItem
 Check if the player have that item
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `Item`                | string | :material-checkbox-blank-circle: | `-` | The item name
 

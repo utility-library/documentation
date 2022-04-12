@@ -1,7 +1,7 @@
 # DropObjectFromHand (Client side)
 Drop the object that was taken via the [TakeObjectOnHand](https://utility-library.github.io/client/advance_script_creation/TakeObjectOnHand/)
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `Entity`                | entity | :material-checkbox-blank-circle: | `-` | The entity
 | `Delete`                | boolean | :material-checkbox-blank-circle-outline: | `false` | Delete or no the entity when dropped

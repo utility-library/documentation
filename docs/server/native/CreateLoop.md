@@ -1,7 +1,7 @@
 # CreateLoop
 Create a while true do loop
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Function`                | function | :material-checkbox-blank-circle: | `-` | The code executed in the loop
 | `Time`                | number | :material-checkbox-blank-circle-outline: | `5` | The time express in millisenconds (**ms**) of the execution

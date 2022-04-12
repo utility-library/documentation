@@ -1,7 +1,7 @@
 # DevMode
 Only for development, turn on the log for anything done by the utility
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Status`                | boolean | :material-checkbox-blank-circle: | `-` | Turn on or off the devmode
 | `Time`                | boolean | :material-checkbox-blank-circle-outline: | `true` | Turn on or off the time off the log

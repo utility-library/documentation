@@ -1,7 +1,7 @@
 # ReplaceTexture
 Replace a texture of a model
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Model`                | string | :material-checkbox-blank-circle: | `-` | The model to replace the texture
 | `Texture Name`                | string | :material-checkbox-blank-circle: | `-` | The original texture name, you can found it with OpenIV

@@ -1,7 +1,7 @@
 # table.clone
 Clone a table
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Table`                | table | :material-checkbox-blank-circle: | `-` | The original table
 

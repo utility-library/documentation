@@ -1,7 +1,7 @@
 # ShowNotification
 Draw a notification in the bottom-left
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Message`                | string | :material-checkbox-blank-circle: | `-` | The message to show
 

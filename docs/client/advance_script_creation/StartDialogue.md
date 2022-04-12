@@ -1,7 +1,7 @@
 # StartDialogue
 Start a dialogue with a entity
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Entity`                | entity | :material-checkbox-blank-circle: | `-` | The entity with which you want to start a dialogue
 | `Distance`                | number | :material-checkbox-blank-circle: | `-` | The distance

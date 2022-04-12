@@ -1,7 +1,7 @@
 # DisableCotrolAction
 Disable a key, need to be called every tick
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Control`                | string | :material-checkbox-blank-circle: | `-` | The key to disable
 | `Disable`                | boolean | :material-checkbox-blank-circle-outline: | `true` | Disable or no

@@ -1,7 +1,7 @@
 # StopDialogue
 Stop a dialogue
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Entity`                | string/number | :material-checkbox-blank-circle: | `-` | The entity that handle the dialogue
 

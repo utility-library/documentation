@@ -1,7 +1,7 @@
 # GetDataForJob
 Return the number of player that have that job and the workers list of that job
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `Job`                | string | :material-checkbox-blank-circle: | `-` | The job name
 

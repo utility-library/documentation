@@ -1,7 +1,7 @@
 # IsInRadius
 Check the distance between 2 coords and return true if is in radius
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Coords 1`                | vector3 | :material-checkbox-blank-circle: | `-` | The first coords (probably the entity coords)
 | `Coords 2`                | vector3 | :material-checkbox-blank-circle: | `-` | The second coords

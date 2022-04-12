@@ -1,7 +1,7 @@
 # Set3dTextScale
 Set the scale of a marker (only 3d text)
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to update the marker
 | `Scale`                | number | :material-checkbox-blank-circle: | `-` | The scale of the 3dtext

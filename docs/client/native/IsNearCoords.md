@@ -1,7 +1,7 @@
 # IsNearCoords
 Check if the player is near to a coords
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coords
 | `Radius`                | number | :material-checkbox-blank-circle: | `-` | The distance to check

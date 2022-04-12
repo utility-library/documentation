@@ -1,13 +1,15 @@
 # CreateiObject
 Create a iObject
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to manage the iObject
 | `Model`                | string/number | :material-checkbox-blank-circle: | `-` | The mode of the iObject
 | `Coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coordinates to create the iObject
 | `Heading`                | number | :material-checkbox-blank-circle: | `-` | The heading to create the iObject
 | `Interaction Distance`                | number | :material-checkbox-blank-circle: | `-` | The distance for the interaction
+| `Network`                | boolean | :material-checkbox-blank-circle: | `-` | If the iObject is networked or not
+| `Job`                | string | :material-checkbox-blank-circle: | `-` | The job to interact with the iObject
     
 ??? success "Returns"
     | Data Type                            | Description

@@ -1,7 +1,7 @@
 # TakeObjectOnHand (Client side)
 Take the object defined as an argument
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `Ped`                | ped | :material-checkbox-blank-circle: | `-` | The ped that take the object
 | `Entity`                | entity/string/hash | :material-checkbox-blank-circle: | `-` | The entity to take, you can pass the object handle or the model name/hash

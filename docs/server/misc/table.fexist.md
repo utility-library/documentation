@@ -1,7 +1,7 @@
 # table.fexist
 Check if the field exist in the table
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Table`                | table | :material-checkbox-blank-circle: | `-` | The table
 | `Field`                | string | :material-checkbox-blank-circle: | `-` | The field to check

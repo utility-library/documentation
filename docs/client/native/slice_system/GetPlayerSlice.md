@@ -1,7 +1,7 @@
 # GetPlayerSlice
 Get the slice id from a player index (client id)
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `player`                | Player | :material-checkbox-blank-circle: | `-` | The player that whe need to get the slice id
 

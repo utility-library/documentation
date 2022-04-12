@@ -4,7 +4,7 @@ It also automatically loads player data (like the job, that auto update)
 
 the `ESX` variables are made available
 
-| Argument              | Data Type                            | Nedeed                    | Default                       | Description
+| Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
 | `esxEventName`                | string | :material-checkbox-blank-circle-outline: | `esx:getSharedObject` | The esx event, if you have the replaced trigger
 | `Second Job`                | string | :material-checkbox-blank-circle-outline: | `-` | If you have set up the second job in the utility configuration, you need to enter the name here for it to auto-update

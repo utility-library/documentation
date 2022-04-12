@@ -1,7 +1,7 @@
 # CreateNui3d
 Create a 3d nui in the game, simply render a htlm page in a DUI
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `GFXName`              | string | :material-checkbox-blank-circle: | `-` | The name of your .gfx render
 | `Directory`                | anything | :material-checkbox-blank-circle-outline: | `-` | The directory of the html file

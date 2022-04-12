@@ -1,7 +1,7 @@
 # GetWorldClosestPlayer
 Return the closest player, and the all founded player
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Radius`                | number | :material-checkbox-blank-circle: | `-` | The radius that being checked
 

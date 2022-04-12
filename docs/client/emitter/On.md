@@ -1,7 +1,7 @@
 # On
 Is the listener of the emitter
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Type`                | string | :material-checkbox-blank-circle: | `-` | The type of the emitter
 | `Callback`            | function | :material-checkbox-blank-circle: | `-` | The function that will be executed when the event has been triggered

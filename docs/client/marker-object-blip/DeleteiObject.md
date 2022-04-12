@@ -1,7 +1,7 @@
 # DeleteiObject
 Delete a iObject
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id of the iObject
 | `Delete`            | boolean | :material-checkbox-blank-circle-outline: | `false` | If is true delete the actual entity, otherwise delete only the interaction

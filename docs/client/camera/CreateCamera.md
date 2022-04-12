@@ -1,6 +1,6 @@
 # CreateCamera
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coords to create the camera
 | `Rotation`                | vector3 | :material-checkbox-blank-circle: | `-` | The rotation to create the camera

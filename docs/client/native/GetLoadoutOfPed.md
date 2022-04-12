@@ -1,7 +1,7 @@
 # GetLoadoutOfPed
 Returns the ped weapons loadout
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Ped`                | ped | :material-checkbox-blank-circle-outline: | `` | The ped
 

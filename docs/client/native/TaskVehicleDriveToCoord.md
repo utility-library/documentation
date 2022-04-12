@@ -1,7 +1,7 @@
 # TaskVehicleDriveToCoord
 ask to a ped with a vehicle to drive at a specific coordinate
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Ped`                | ped | :material-checkbox-blank-circle: | `-` | The driver of the vehicle
 | `Vehicle`                | vehicle | :material-checkbox-blank-circle: | `-` | The vehicle

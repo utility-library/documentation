@@ -1,7 +1,7 @@
 # StopLoopThread
 Stop the [loop thread](https://utility-library.github.io/client/native/LoopThread/) identified by the id inserted
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Handle`                | string/number | :material-checkbox-blank-circle: | `-` | The handle of the loop thread
 

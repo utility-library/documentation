@@ -1,7 +1,7 @@
 # ShowNotification
 Draw a notification in the bottom-left
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Source`                | number | :material-checkbox-blank-circle: | `-` | The id to which the notification must be sent
 | `Message`                | string | :material-checkbox-blank-circle: | `-` | The message to show

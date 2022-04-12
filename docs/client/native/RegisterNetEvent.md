@@ -1,7 +1,7 @@
 # RegisterNetEvent
 Register a net event that can be called by the client or the server,<br>**The event have the AddEventHandler already loaded**
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `EventName`                | string | :material-checkbox-blank-circle: | `-` | The name of the event
 | `Function`                | function | :material-checkbox-blank-circle: | `-` | The code executed when the event was triggered

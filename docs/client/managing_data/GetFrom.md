@@ -1,7 +1,7 @@
 # GetFrom
 Allows you to get the data saved through the [SetFor](https://utility-library.github.io/client/managing_data/SetFor/)
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id
 | `Property`                | string/table | :material-checkbox-blank-circle-outline: | `-` | The data name

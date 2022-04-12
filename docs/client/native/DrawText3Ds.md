@@ -1,7 +1,7 @@
 # DrawText3Ds
 Draws 3D text on the specified coords
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coordinates to create the 3d text
 | `Text`                | string | :material-checkbox-blank-circle: | `-` | The text

@@ -1,7 +1,7 @@
 # SetMarkerAnimation
 Set the bouncing animation of the marker by the id
 
-| Argument              | Data type                            | Nedeed                    | Default         | Description
+| Argument              | Data type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to update the marker
 | `Animation`                | boolean | :material-checkbox-blank-circle: | `-` | Use or no the bouncing animation

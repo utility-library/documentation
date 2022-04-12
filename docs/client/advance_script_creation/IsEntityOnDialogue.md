@@ -1,7 +1,7 @@
 # IsEntityOnDialogue
 Check if the entity is on a dialogue
 
-| Argument              | Data Type                            | Nedeed                    | Default         | Description
+| Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
 | `Entity`                | string/number | :material-checkbox-blank-circle: | `-` | The entity
 
