@@ -1,10 +1,17 @@
 site_name: Utility Library
 site_url: https://example.com/
 
+repo_url: https://github.com/utility-library/documentation
+repo_name: utility-library/documentation
+
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   logo: assets/images/Utility.png
   favicon: assets/images/Utility.png
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - scheme: default
       toggle:
@@ -140,6 +147,7 @@ nav:
             - 'DeleteiObject' : 'client/marker-object-blip/DeleteiObject.md'
           - 'Blip' :
             - 'CreateBlip' : 'client/marker-object-blip/CreateBlip.md' 
+            - 'CreateJobBlip' : 'client/marker-object-blip/CreateJobBlip.md' 
           - 'Get and edit':
             - 'DoesExist' : 'client/marker-object-blip/DoesExist.md'
             - 'GetCoordOf' : 'client/marker-object-blip/GetCoordOf.md'
