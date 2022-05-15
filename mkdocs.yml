@@ -1,7 +1,7 @@
 site_name: Utility Library
 site_url: https://example.com/
 
-repo_url: https://github.com/utility-library/documentation
+repo_url: https://github.com/utility-library/utility_lib
 repo_name: utility-library/documentation
 
 edit_uri: edit/main/docs/
@@ -183,6 +183,7 @@ nav:
         - 'ExecuteSql' : 'server/mysql/ExecuteSql.md'
       - 'ESX Integration':
         - 'StartESX': 'server/esx_integration/StartESX.md'
+        - 'GetDataForJob': 'server/esx_integration/GetDataForJob.md'
         - 'xPlayer':
           - 'AddItem': 'server/esx_integration/xplayer/AddItem.md'
           - 'AddMoney': 'server/esx_integration/xplayer/AddMoney.md'
