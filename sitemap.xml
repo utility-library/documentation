@@ -236,6 +236,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/client/marker-object-blip/SetMarkerNotify/</loc>
+         <lastmod>2022-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerRenderDistance/</loc>
          <lastmod>2022-07-31</lastmod>
          <changefreq>daily</changefreq>
