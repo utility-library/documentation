@@ -146,16 +146,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/client/advanced_script_creation/sync/Synced/</loc>
-         <lastmod>2022-09-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://example.com/client/advanced_script_creation/sync/TriggerSyncedEvent/</loc>
-         <lastmod>2022-09-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://example.com/client/camera/CreateCamera/</loc>
          <lastmod>2022-09-25</lastmod>
          <changefreq>daily</changefreq>
