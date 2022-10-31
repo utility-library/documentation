@@ -1,15 +1,16 @@
-# DisableControlForSeconds
-Disable a key for inserted seconds
+# SetEntityModel
+Change the model of a entity over the network (also with local entities)
 
 | Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
-| `Control`                | string | :material-checkbox-blank-circle: | `-` | The key to disable
-| `Seconds`                | number | :material-checkbox-blank-circle: | `-` | The seconds which the button is disabled
+| `entity`                | entity | :material-checkbox-blank-circle: | `-` | 
+| `model`                | string/number | :material-checkbox-blank-circle: | `-` | The new model
+
 
 !!! success ""
     Dont need to be called every frame
 ---
 ??? example
     ```
-    DisableControlForSeconds("K", 5)
+    SetEntityModel(obj, "prop_weed_01")
     ```

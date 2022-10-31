@@ -1,13 +1,13 @@
 # CreateMarker
 Create a marker, can be an 3d text or real actual marker
 
-| Argument              | Data Type                            | Needed                    | Default         | Description
-| ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
-| `Id`                | string/number | :material-checkbox-blank-circle: | `-` | The id to manage the marker
-| `Coords`                | vector3 | :material-checkbox-blank-circle: | `-` | The coordinates to create the marker
-| `Render Distance`                | number | :material-checkbox-blank-circle: | `-` | The distance for the render
-| `Interaction Distance`                | number | :material-checkbox-blank-circle: | `-` | The distance for the interaction
-| `Options`                | table/string | :material-checkbox-blank-circle: | `-` | See the config arguments
+| Argument               | Data Type     | Needed                           | Default | Description                          |
+|------------------------|---------------|----------------------------------|---------|--------------------------------------|
+| `Id`                   | string/number | :material-checkbox-blank-circle: | `-`     | The id to manage the marker          |
+| `Coords`               | vector3       | :material-checkbox-blank-circle: | `-`     | The coordinates to create the marker |
+| `Render Distance`      | number        | :material-checkbox-blank-circle: | `-`     | The distance for the render          |
+| `Interaction Distance` | number        | :material-checkbox-blank-circle: | `-`     | The distance for the interaction     |
+| `Options`              | table/string  | :material-checkbox-blank-circle: | `-`     | See the config arguments             |
     
 !!! success ""
     Dont need to be called every frame, if called every frame and the marker already exist, sleep the loop for 100 ms to prevent spam
@@ -40,8 +40,9 @@ Create a marker, can be an 3d text or real actual marker
     ???+ abstract "Config arguments"
         | Child     | Data Type | Explanation |
         |-----------|-----------|------------ |
-        | job      | string    | The job that can see and interact with the marker                             |
+        | job      | string/table    | The job that can see and interact with the marker                             |
         | rgb      | table    | The rgb data (`{255, 255, 255}`)                             |
+        | text      | string    | The 3d text to be shown                             |
         | notify      | string    | The ButtonNotification data                          |
         | type     | number    | The [marker type](https://docs.fivem.net/docs/game-references/markers/)                            |
         | direction    | vector3    | The direction of the marker |

@@ -1,4 +1,4 @@
-# DisableCotrolAction
+# DisableControlAction
 Disable a key, need to be called every tick
 
 | Argument              | Data Type                            | Needed                    | Default         | Description
@@ -12,7 +12,7 @@ Disable a key, need to be called every tick
 ??? example
     ```
     CreateLoop(function()
-        DisableCotrolAction("K")
+        DisableControlAction("K")
     end)
     ```
 ??? abstract "Old method"

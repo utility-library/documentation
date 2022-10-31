@@ -1,15 +1,19 @@
-# DisableControlForSeconds
-Disable a key for inserted seconds
+# GetEntitySize
+Return the entity size in a vector3
 
 | Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
-| `Control`                | string | :material-checkbox-blank-circle: | `-` | The key to disable
-| `Seconds`                | number | :material-checkbox-blank-circle: | `-` | The seconds which the button is disabled
+| `entity`                | entity | :material-checkbox-blank-circle: | `` |
 
+??? success "Returns"
+    | Data Type                            | Description
+    | ------------------------------------ |-------------
+    | vector3 | The generated coords
+    
 !!! success ""
     Dont need to be called every frame
 ---
 ??? example
     ```
-    DisableControlForSeconds("K", 5)
+    GetEntitySize(entity)
     ```
