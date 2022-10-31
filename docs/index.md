@@ -44,6 +44,11 @@ Utility Library was created by <span style="color: #0071ff;">**XenoS.exe#2859**<
 Thanks also to <span style="color: #0071ff;">**MarKz#3003**</span> for giving me the chance to test and develop the library on her RP server
 
 ??? danger "To do"
-    :material-circle-slice-1: Improving object and iObject<br>
+    :material-circle-slice-8: Improving object and iObject<br>
     :material-circle-slice-8: Adding society implementation for server-side<br>
     :material-circle-slice-8: Cloning money and database thing for server-side
+
+## Affiliated documentations
+
+[Utility Weapons](https://utility-library.github.io/utility_weapons/)  
+[Utility Pause Menu](https://utility-library.github.io/utility_pausemenu/)

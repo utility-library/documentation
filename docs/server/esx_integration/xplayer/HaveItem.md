@@ -3,6 +3,7 @@ Check if the player have that item
 
 | Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
+| `id`                | number | :material-checkbox-blank-circle: | `-` |
 | `Item`                | string | :material-checkbox-blank-circle: | `-` | The item name
 
 !!! success ""
@@ -17,5 +18,5 @@ Check if the player have that item
 ---
 ??? example
     ```
-    local have_item = HaveItem("bread")
+    local have_item = HaveItem(source, "bread")
     ```

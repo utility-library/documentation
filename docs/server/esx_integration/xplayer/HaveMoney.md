@@ -3,6 +3,7 @@ Check if the player have that money
 
 | Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
+| `id`                | number | :material-checkbox-blank-circle: | `-` |
 | `Type`                | string | :material-checkbox-blank-circle: | `-` | The money type: cash, bank, black_money
 | `Amount`                | number | :material-checkbox-blank-circle: | `-` | The amount of money to check
 
@@ -18,5 +19,5 @@ Check if the player have that money
 ---
 ??? example
     ```
-    local have_money = HaveMoney("cash", 500)
+    local have_money = HaveMoney(source, "cash", 500)
     ```

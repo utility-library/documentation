@@ -3,6 +3,7 @@ Get data of an item by the player
 
 | Argument              | Data Type                            | Needed                    | Default                       | Description
 | ----------------------| ------------------------------------ | ------------------------- |-------------------------------|-------------
+| `id`                | number | :material-checkbox-blank-circle: | `-` |
 | `Item`                | string | :material-checkbox-blank-circle: | `-` | The item name
 
 !!! success ""
@@ -24,11 +25,11 @@ Get data of an item by the player
 ---
 ??? example
     ```
-    local itemData = GetItem("bread")
+    local itemData = GetItem(source, "bread")
     ```     
     How to use child
     ```
-    local itemData = GetItem("bread")
+    local itemData = GetItem(source, "bread")
 
     -- itemData.name = "bread"
     -- itemData.count = 1
