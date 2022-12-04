@@ -1,11 +1,12 @@
 # StartDialogue
 Start a dialogue with a entity
 
-| Argument              | Data Type                            | Needed                    | Default         | Description
-| ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
-| `Entity`                | entity | :material-checkbox-blank-circle: | `-` | The entity with which you want to start a dialogue
-| `Distance`                | number | :material-checkbox-blank-circle: | `-` | The distance
-| `Function`                | function | :material-checkbox-blank-circle: | `-` | The function that is called when the player responds with the entity
+| Argument   | Data Type | Needed                           | Default | Description                                                          |
+|------------|-----------|----------------------------------|---------|----------------------------------------------------------------------|
+| `Entity`   | entity    | :material-checkbox-blank-circle: | `-`     | The entity with which you want to start a dialogue                   |
+| `Distance` | number    | :material-checkbox-blank-circle: | `-`     | The distance                                                         |
+| `Function` | function  | :material-checkbox-blank-circle: | `-`     | The function that is called when the player responds with the entity |
+| `stopWhenTalking` | boolean  | :material-checkbox-blank-circle: | `-`     | If true the ped will stop and talk to the player |
 
 ??? success "Returns"
     | Child     | Data Type | Description                           |
@@ -13,9 +14,6 @@ Start a dialogue with a entity
     | Question      | function    | The function to set the questions
     | Response      | function    | The function to set the responses
     | LastQuestion      | function    | The function to set the last response by the entity
-
-???+ warning
-    You can start only `1` dialogue at time
 
 !!! success ""
     Dont need to be called every frame
