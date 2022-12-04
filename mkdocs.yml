@@ -2,7 +2,7 @@ site_name: Utility Library
 site_url: https://example.com/
 
 repo_url: https://github.com/utility-library/utility_lib
-repo_name: utility-library/documentation
+repo_name: utility-lib
 
 edit_uri: edit/main/docs/
 
@@ -61,9 +61,11 @@ nav:
             - 'ButtonFor' : "client/native/ButtonFor.md"
             - 'ButtonNotification' : "client/native/ButtonNotification.md"
             - 'CreateMissionText' : "client/native/CreateMissionText.md"
+            - 'DebugCoords' : "client/native/DebugCoords.md"
             - 'DisableControlForSeconds' : "client/native/DisableControlForSeconds.md"
             - 'DrawText3Ds' : "client/native/DrawText3Ds.md"
             - 'GenerateRandomCoords' : "client/native/GenerateRandomCoords.md"
+            - 'GetEntitySize' : "client/native/GetEntitySize.md"
             - 'GetEntitySurfaceMaterial' : "client/native/GetEntitySurfaceMaterial.md"
             - 'GetLoadoutOfPed' : "client/native/GetLoadoutOfPed.md"
             - 'GetWorldClosestPed' : "client/native/GetWorldClosestPed.md"
@@ -73,9 +75,11 @@ nav:
             - 'IsInRadius' : "client/native/IsInRadius.md"
             - 'IsNearCoords' : "client/native/IsNearCoords.md"
             - 'MakeEntityFaceEntity' : "client/native/MakeEntityFaceEntity.md"
+            - 'SetEntityModel' : "client/native/SetEntityModel.md"
             - 'SetPedStatic' : "client/native/SetPedStatic.md"
             - 'SetVehicleWheelsPowered' : "client/native/SetVehicleWheelsPowered.md"
             - 'ShowNotification' : "client/native/ShowNotification.md"
+            - 'StartParticleFxOnNetworkEntity' : "client/native/StartParticleFxOnNetworkEntity.md"
             - 'WaitNear' : "client/native/WaitNear.md"
             - 'Slice System':
               - GetEntitySlice: "client/native/slice_system/GetEntitySlice.md"
@@ -90,32 +94,48 @@ nav:
         - 'ESX Integration':
           - 'StartESX': 'client/esx_integration/StartESX.md'
           - 'GetDataForJob': 'client/esx_integration/GetDataForJob.md'
-        - 'Advance Script Creation':
-          - 'Nui3D' :
-            - 'CreateNui3d': 'client/advance_script_creation/n3d/CreateNui3d.md'
-            - 'N3d Class Methods': 'client/advance_script_creation/n3d/N3dClass.md'
+        - 'Advanced Script Creation':
+          - 'Heist [New]' :
+            - 'BreakDoorWithThermalCharge' : 'client/advanced_script_creation/heist/BreakDoorWithThermalCharge.md'
+            - 'CreateTrolly' : 'client/advanced_script_creation/heist/CreateTrolly.md'
+            - 'Guards' : 
+              - 'CreateGuard' : 'client/advanced_script_creation/heist/guards/CreateGuard.md'
+              - 'CreateGuardRoute' : 'client/advanced_script_creation/heist/guards/CreateGuardRoute.md'
+              - 'SetGuardDifficulty' : 'client/advanced_script_creation/heist/guards/SetGuardDifficulty.md'
+              - 'SetGuardRoute' : 'client/advanced_script_creation/heist/guards/SetGuardRoute.md'
+              
+          - 'Scenes [New]' :
+            - 'AddEntityToScene' : 'client/advanced_script_creation/scenes/AddEntityToScene.md'
+            - 'AddPedToScene' : 'client/advanced_script_creation/scenes/AddPedToScene.md'
+            - 'AddPlayerToScene' : 'client/advanced_script_creation/scenes/AddPlayerToScene.md'
+            - 'CreateScene' : 'client/advanced_script_creation/scenes/CreateScene.md'
+            - 'GetSceneEntity' : 'client/advanced_script_creation/scenes/GetSceneEntity.md'
+            - 'GoNearInitialOffset' : 'client/advanced_script_creation/scenes/GoNearInitialOffset.md'
+            - 'StartScene' : 'client/advanced_script_creation/scenes/StartScene.md'
+            - 'StopScene' : 'client/advanced_script_creation/scenes/StopScene.md'
 
-          - 'Sync':
-            - 'TriggerSyncedEvent': 'client/advance_script_creation/sync/TriggerSyncedEvent.md'
-            - 'Synced': 'client/advance_script_creation/sync/Synced.md'
+          - 'Nui3D' :
+            - 'CreateNui3d': 'client/advanced_script_creation/n3d/CreateNui3d.md'
+            - 'N3d Class Methods': 'client/advanced_script_creation/n3d/N3dClass.md'
 
           - 'Object': 
-            - 'DropObjectFromHand': 'client/advance_script_creation/DropObjectFromHand.md'
-            - 'GetOnHandObject': 'client/advance_script_creation/GetOnHandObject.md'
-            - 'TakeObjectOnHand': 'client/advance_script_creation/TakeObjectOnHand.md'
+            - 'DropObjectFromHand': 'client/advanced_script_creation/DropObjectFromHand.md'
+            - 'GetOnHandObject': 'client/advanced_script_creation/GetOnHandObject.md'
+            - 'TakeObjectOnHand': 'client/advanced_script_creation/TakeObjectOnHand.md'
 
           - 'Direction':
-            - 'GetDirectionFromVectors': 'client/advance_script_creation/GetDirectionFromVectors.md'
-            - 'RotationToDirection': 'client/advance_script_creation/RotationToDirection.md'
+            - 'GetDirectionFromVectors': 'client/advanced_script_creation/GetDirectionFromVectors.md'
+            - 'RotationToDirection': 'client/advanced_script_creation/RotationToDirection.md'
 
           - 'Animation':
-            - 'TranslateZAnimated': 'client/advance_script_creation/TranslateZAnimated.md'
+            - 'TranslateZAnimated': 'client/advanced_script_creation/TranslateZAnimated.md'
+            - 'TranslateUniformRectilinearMotion': 'client/advanced_script_creation/TranslateUniformRectilinearMotion.md'
 
           - 'Dialogue':
-            - 'EditDialogue': 'client/advance_script_creation/EditDialogue.md'
-            - 'IsEntityOnDialogue': 'client/advance_script_creation/IsEntityOnDialogue.md'
-            - 'StartDialogue': 'client/advance_script_creation/StartDialogue.md'
-            - 'StopDialogue': 'client/advance_script_creation/StopDialogue.md'
+            - 'EditDialogue': 'client/advanced_script_creation/EditDialogue.md'
+            - 'IsEntityOnDialogue': 'client/advanced_script_creation/IsEntityOnDialogue.md'
+            - 'StartDialogue': 'client/advanced_script_creation/StartDialogue.md'
+            - 'StopDialogue': 'client/advanced_script_creation/StopDialogue.md'
         - 'Managing data':
           - 'SetFor': 'client/managing_data/SetFor.md'
           - 'GetFrom': 'client/managing_data/GetFrom.md'
@@ -139,6 +159,7 @@ nav:
             - 'SetMarkerColor': 'client/marker-object-blip/SetMarkerColor.md'
             - 'SetMarkerDirection': 'client/marker-object-blip/SetMarkerDirection.md'
             - 'SetMarkerDrawOnEntity': 'client/marker-object-blip/SetMarkerDrawOnEntity.md'
+            - 'SetMarkerNotify': 'client/marker-object-blip/SetMarkerNotify.md' 
             - 'SetMarkerRotation': 'client/marker-object-blip/SetMarkerRotation.md'
             - 'SetMarkerScale': 'client/marker-object-blip/SetMarkerScale.md'
             - 'SetMarkerType': 'client/marker-object-blip/SetMarkerType.md'
@@ -165,6 +186,7 @@ nav:
           - 'Probability' : 'client/misc/Probability.md'
           - 'RemovePercentage' : 'client/misc/RemovePercentage.md'
           - 'ReplaceTexture' : 'client/misc/ReplaceTexture.md'
+          - 'StopCurrentTaskAndWatchPlayer' : 'client/misc/StopCurrentTaskAndWatchPlayer.md'
           - 'apairs' : 'client/misc/apairs.md'
           - 'printd' : "client/misc/printd.md"
           - 'string.multigsub' : 'client/misc/string.multigsub.md'
