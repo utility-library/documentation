@@ -101,6 +101,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/client/advanced_script_creation/n3d/GetScaleformsStatus/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/client/advanced_script_creation/n3d/IsScaleformTaken/</loc>
+         <lastmod>2022-12-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/client/advanced_script_creation/n3d/N3dClass/</loc>
          <lastmod>2022-12-16</lastmod>
          <changefreq>daily</changefreq>
