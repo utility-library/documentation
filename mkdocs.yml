@@ -116,6 +116,8 @@ nav:
 
           - 'Nui3D' :
             - 'CreateNui3d': 'client/advanced_script_creation/n3d/CreateNui3d.md'
+            - 'IsScaleformTaken': 'client/advanced_script_creation/n3d/IsScaleformTaken.md'
+            - 'GetScaleformsStatus': 'client/advanced_script_creation/n3d/GetScaleformsStatus.md'
             - 'N3d Class Methods': 'client/advanced_script_creation/n3d/N3dClass.md'
 
           - 'Object': 

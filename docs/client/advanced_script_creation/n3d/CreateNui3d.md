@@ -1,5 +1,5 @@
 # CreateNui3d
-Create a 3d nui in the game, simply render a htlm page in a DUI
+Create a 3d nui in the game, simply render a html page in a DUI
 
 | Argument    | Data Type | Needed                                   | Default | Description                    |
 |-------------|-----------|------------------------------------------|---------|--------------------------------|
