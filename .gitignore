@@ -1,1 +1,4 @@
+# Site build directory
 site/
+# Personal backup
+*.rar
