@@ -1,9 +1,9 @@
 # ReplaceTexture
-Replace a texture of a model
+Replace a texture
 
 | Argument              | Data Type                            | Needed                    | Default         | Description
 | ----------------------| ------------------------------------ | ------------------------- |-----------------|-------------
-| `Model`                | string | :material-checkbox-blank-circle: | `-` | The model to replace the texture
+| `dict`                | string | :material-checkbox-blank-circle: | `-` | The dict to replace the texture
 | `Texture Name`                | string | :material-checkbox-blank-circle: | `-` | The original texture name, you can found it with OpenIV
 | `Url`                | string | :material-checkbox-blank-circle: | `-` | The url of the texture, can be a: .gif, .png, .jpg or a website (it can also be a nui)
 | `Width`                | number | :material-checkbox-blank-circle: | `-` | The width of the texture
@@ -56,4 +56,4 @@ Replace a texture of a model
     Some texture will show up, you need to choose the right texture, for me there is only one
     ![https://i.postimg.cc/vDRDQMp9/image.png](https://i.postimg.cc/vDRDQMp9/image.png)
 
-    So, we have finished, `km_xj_v_beanbag` is the textureName
+    So, we have finished, `km_xj_v_beanbag` is the textureName and `v_corp_facebeanbagd` is the dict

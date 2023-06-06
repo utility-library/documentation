@@ -1,21 +1,22 @@
 # N3d Class Methods
 This is all of the methods for the n3d class
 
-| Class                 | Description
-| ----------------------| -------------
-| `init`             | Load the .gfx render to render a nui, width and height can be setted
-| `datas`            | Return a table with all the datas of the N3d (options and default datas)
-| `destroy`          | Delete the .gfx render and unload the scaleform, you need to do that if you don't need that n3d
-| `started`          | Return true if the .gfx render has finished to load anymore  
-| `show`             | Shows the n3d
-| `hide`             | Hides the n3d, but keeps the render active for later use
-| `visible`          | Return true if the .gfx render and the n3d is visible
-| `scale`            | You can change the scale of the whole rendering, it takes some knowledge in DUI
-| `rotation`         | The heading of the render
-| `attach`           | Attach the n3d to the entity, accept some offsets
-| `detach`           | Detach the n3d from the entity
-| `object`           | Return the dui render
-| `msg`           | Send message to the dui render, can be use like the SendNuiMessage for update data on the n3d
+| Class            | Description                                                                                     |
+|------------------|-------------------------------------------------------------------------------------------------|
+| `init`           | Load the .gfx render to render a nui, width and height can be setted                            |
+| `datas`          | Return a table with all the datas of the N3d (options and default datas)                        |
+| `destroy`        | Delete the .gfx render and unload the scaleform, you need to do that if you don't need that n3d |
+| `started`        | Return true if the .gfx render has finished to load anymore                                     |
+| `show`           | Shows the n3d                                                                                   |
+| `hide`           | Hides the n3d, but keeps the render active for later use                                        |
+| `visible`        | Return true if the .gfx render and the n3d is visible                                           |
+| `scale`          | You can change the scale of the whole rendering, it takes some knowledge in DUI                 |
+| `rotation`       | The heading of the render                                                                       |
+| `attach`         | Attach the n3d to the entity, accept some offsets                                               |
+| `detach`         | Detach the n3d from the entity                                                                  |
+| `object`         | Return the dui render                                                                           |
+| `replaceTexture` | Replace a texture with this n3d (dui)                                                           |
+| `msg`            | Send message to the dui render, can be use like the SendNuiMessage for update data on the n3d   |
 
 ???+ example "All classes arguments"
     ## Read the argument!
@@ -148,6 +149,18 @@ This is all of the methods for the n3d class
         ## Example
         ```
         n3d:object()
+        ```
+    ??? quote "replaceTexture"
+        | Argument              | Data Type                            | Default          | Description
+        | ----------------------| ------------------------------------ | -----------------|-------------
+        | `dict`              | string  | `-` | The [texture dictionary](../../misc/ReplaceTexture.md)
+        | `textureName`      | string  | `-` | The [texture name](../../misc/ReplaceTexture.md)
+
+        ---
+        
+        ## Example
+        ```
+        n3d:replaceTexture("p_cs_cam_phone", "phone_screen")
         ```
     ??? quote "msg"
         | Argument              | Data Type                            | Default          | Description

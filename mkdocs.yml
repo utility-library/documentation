@@ -21,6 +21,9 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  features:
+    - content.action.edit
+    - content.action.view
 
 extra_css:
   - ovveride/highlight.css
@@ -95,7 +98,13 @@ nav:
           - 'StartESX': 'client/esx_integration/StartESX.md'
           - 'GetDataForJob': 'client/esx_integration/GetDataForJob.md'
         - 'Advanced Script Creation':
-          - 'Heist [New]' :
+          - 'Translate Smooth [New]' :
+            - 'TranslateObjectCoords' : 'client/advanced_script_creation/translateSmooth/TranslateObjectCoords.md'
+            - 'TranslateObjectCoordsCubicBezier' : 'client/advanced_script_creation/translateSmooth/TranslateObjectCoordsCubicBezier.md'
+            - 'TranslateObjectRotation' : 'client/advanced_script_creation/translateSmooth/TranslateObjectRotation.md'
+            - 'TranslateObjectRotationCubicBezier' : 'client/advanced_script_creation/translateSmooth/TranslateObjectRotationCubicBezier.md'
+              
+          - 'Heist' :
             - 'BreakDoorWithThermalCharge' : 'client/advanced_script_creation/heist/BreakDoorWithThermalCharge.md'
             - 'CreateTrolly' : 'client/advanced_script_creation/heist/CreateTrolly.md'
             - 'Guards' : 
@@ -104,7 +113,7 @@ nav:
               - 'SetGuardDifficulty' : 'client/advanced_script_creation/heist/guards/SetGuardDifficulty.md'
               - 'SetGuardRoute' : 'client/advanced_script_creation/heist/guards/SetGuardRoute.md'
               
-          - 'Scenes [New]' :
+          - 'Scenes' :
             - 'AddEntityToScene' : 'client/advanced_script_creation/scenes/AddEntityToScene.md'
             - 'AddPedToScene' : 'client/advanced_script_creation/scenes/AddPedToScene.md'
             - 'AddPlayerToScene' : 'client/advanced_script_creation/scenes/AddPlayerToScene.md'
@@ -128,10 +137,6 @@ nav:
           - 'Direction':
             - 'GetDirectionFromVectors': 'client/advanced_script_creation/GetDirectionFromVectors.md'
             - 'RotationToDirection': 'client/advanced_script_creation/RotationToDirection.md'
-
-          - 'Animation':
-            - 'TranslateZAnimated': 'client/advanced_script_creation/TranslateZAnimated.md'
-            - 'TranslateUniformRectilinearMotion': 'client/advanced_script_creation/TranslateUniformRectilinearMotion.md'
 
           - 'Dialogue':
             - 'EditDialogue': 'client/advanced_script_creation/EditDialogue.md'
@@ -246,5 +251,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
   - minify:
       minify_html: true

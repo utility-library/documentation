@@ -12,22 +12,16 @@ Create a 3d nui in the game, simply render a html page in a DUI
 ???+ success "Returns"
     | Child     | Data Type | Description              |
     |-----------|-----------|---------------------------------------|
-    | [N3dClass](../N3dClass)      | class    | The nui 3d class to interact with the n3d (click on [N3dClass](#N3dClass) to see the class method)
+    | [N3dClass](../N3dClass)      | class    | The nui 3d class to interact with the n3d (click on [N3dClass](../N3dClass) to see the class method)
     | handle      | number    | The handle for interact with the n3d |
 ---
 ??? example
-    ??? info "With class"
-        ```
-        local n3d = CreateNui3d("utility_lib_1", "html/ui.html")
+    ```
+    local n3d = CreateNui3d("utility_lib_1", "html/ui.html")
 
-        n3d:show(vector3(0.0, 0.0, 0.0))
-        ```
-    ??? info "With function"
-        ```
-        local _, n3dHandle = CreateNui3d("utility_lib_1", "html/ui.html")
-
-        Show3dNui(n3dHandle, vector3(0.0, 0.0, 0.0))
-        ```
+    n3d:show(vector3(0.0, 0.0, 0.0))
+    ```
+    
     ??? info "My first project with the n3d"
         I created a ammo hud with the n3d and its amazing, is like an object, but also like an nui,<br>sincerely i love this thing!
     
