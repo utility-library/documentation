@@ -50,5 +50,6 @@ Thanks also to <span style="color: #0071ff;">**MarKz#3003**</span> for giving me
 
 ## Affiliated documentations
 
+[Utility Bank (NEW)](https://utility-library.github.io/utility_bank/)  
 [Utility Weapons](https://utility-library.github.io/utility_weapons/)  
 [Utility Pause Menu](https://utility-library.github.io/utility_pausemenu/)
