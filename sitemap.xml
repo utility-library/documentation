@@ -2,857 +2,857 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/dev/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/DropObjectFromHand/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/EditDialogue/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/GetDirectionFromVectors/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/GetOnHandObject/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/IsEntityOnDialogue/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/RotationToDirection/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/StartDialogue/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/StopDialogue/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/TakeObjectOnHand/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/heist/BreakDoorWithThermalCharge/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/heist/CreateTrolly/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/heist/guards/CreateGuard/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/heist/guards/CreateGuardRoute/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/heist/guards/SetGuardDifficulty/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/heist/guards/SetGuardRoute/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/n3d/CreateNui3d/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/n3d/GetScaleformsStatus/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/n3d/IsScaleformTaken/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/n3d/N3dClass/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/AddEntityToScene/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/AddPedToScene/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/AddPlayerToScene/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/CreateScene/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/GetSceneEntity/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/GoNearInitialOffset/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/StartScene/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/scenes/StopScene/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/translateSmooth/TranslateObjectCoords/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/translateSmooth/TranslateObjectCoordsCubicBezier/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/translateSmooth/TranslateObjectRotation/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/advanced_script_creation/translateSmooth/TranslateObjectRotationCubicBezier/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/camera/CreateCamera/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/camera/SwitchBetweenCam/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/emitter/Info/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/emitter/On/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/esx_integration/GetDataForJob/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/esx_integration/StartESX/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/managing_data/GetFrom/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/managing_data/SetFor/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/CreateBlip/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/CreateJobBlip/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/CreateMarker/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/CreateiObject/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/DeleteMarker/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/DeleteiObject/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/DoesExist/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/GetCoordOf/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/GetDistanceFrom/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/RandomId/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/Set3dText/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/Set3dTextDrawRect/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/Set3dTextFont/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/Set3dTextScale/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetIdOf/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarker/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerAlpha/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerAnimation/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerColor/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerCoords/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerDirection/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerDrawOnEntity/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerInteractionDistance/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerNotify/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerRenderDistance/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerRotation/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerScale/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/marker-object-blip/SetMarkerType/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/AddPercentage/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/DevMode/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/FindInTable/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/GetRandom/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/Probability/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/RemovePercentage/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/ReplaceTexture/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/StopCurrentTaskAndWatchPlayer/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/_g/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/apairs/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/printd/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/string.multigsub/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/table.clone/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/table.empty/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/table.fexist/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/misc/table.remove/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/ButtonFor/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/ButtonNotification/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/CreateLoop/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/CreateMissionText/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/CreateObject/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/CreatePed/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/CreateVehicle/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/DebugCoords/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/DeleteEntity/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/DisableControlAction/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/DisableControlForSeconds/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/DrawText3Ds/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/GenerateRandomCoords/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/GetEntitySize/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/GetEntitySurfaceMaterial/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/GetLoadoutOfPed/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/GetPlayerName/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/GetWorldClosestPed/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/GetWorldClosestPlayer/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/InTimeRange/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/IsControlJustPressed/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/IsEntityFrozen/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/IsInRadius/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/IsNearCoords/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/LoopThread/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/MakeEntityFaceEntity/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/PauseLoop/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/PlayerPedId/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/RegisterNetEvent/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/ResumeLoop/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/ResumeLoopThread/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/SetEntityModel/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/SetPedStatic/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/SetVehicleWheelsPowered/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/ShowNotification/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/StartParticleFxOnNetworkEntity/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/StopLoop/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/StopLoopThread/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/Task/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/TaskEasyPlayAnim/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/TaskPlayAnim/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/TaskVehicleDriveToCoord/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/WaitNear/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/_break/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/GetEntitySlice/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/GetPlayerSlice/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/GetSelfSlice/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/GetSliceCoordsFromCoords/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/GetSliceFromCoords/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/Integration/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/IsOnScreen/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/SetSliceUsed/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/client/native/slice_system/SliceUsed/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/GetDataForJob/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/StartESX/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyAddItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyAddMoney/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyGetItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyHaveItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyHaveItemQuantity/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyHaveMoney/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyRemoveItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/society/SocietyRemoveMoney/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/AddItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/AddMoney/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/GetItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/HaveItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/HaveItemQuantity/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/HaveMoney/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/RemoveItem/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/esx_integration/xplayer/RemoveMoney/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/misc/printd/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/misc/string.multigsub/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/misc/table.clone/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/misc/table.empty/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/misc/table.fexist/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/misc/table.remove/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/mysql/ExecuteSql/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/mysql/StartMySQL/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/native/CreateLoop/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/native/LoopThread/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/native/RegisterServerEvent/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/native/ResumeLoopThread/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/native/ShowNotification/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/native/StopLoopThread/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/server/native/_break/</loc>
-         <lastmod>2023-06-06</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
